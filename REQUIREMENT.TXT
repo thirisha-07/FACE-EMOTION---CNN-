@@ -1,0 +1,22 @@
+# Requirements
+Python 3.x
+Jupyter Notebook
+OpenCV
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+TensorFlow
+Keras
+CNN (Convolutional Neural Network)
+Image Preprocessing
+Grayscale Conversion
+Image Resizing
+Data Normalization
+Train-Test Split
+Early Stopping
+Dropout
+Conv2D
+MaxPooling2D
+Dense Layer
+Image Classification
